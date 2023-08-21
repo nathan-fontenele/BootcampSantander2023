@@ -1,7 +1,7 @@
 '''And, Or, Not'''
 '''&&, ||, !'''
 
-value1, value2, value3 = True, True, True
+value1, value2, value3 = True, True, False
 
 if(value1 and value2 == value3):
     print(True)
